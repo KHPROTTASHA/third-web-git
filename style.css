@@ -4,3 +4,6 @@ h1{
 body{
     font-family: 'Crimson Text', serif;
 }
+.name-highlight{
+    color: brown;
+}
