@@ -16,9 +16,15 @@ body{
     margin: 2%;
     padding: 2%;
 }
+.second-half-width{
+    margin: 5%;
+
+}
 .half-width image{
     width: 100%;
 }
+
+
 .button{
     text-decoration: none;
     color: aliceblue;
