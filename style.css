@@ -10,11 +10,11 @@ body{
 .half-width{
     width: 35%;
     float: left;
-    margin: 5%;
+    margin: 2%;
     padding: 2%;
 }
 .half-width image{
-    width: 90%;
+    width: 100%;
 }
 .button{
     text-decoration: none;
