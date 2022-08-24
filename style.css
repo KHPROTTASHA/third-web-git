@@ -15,10 +15,10 @@ body{
     color: brown;
 }
 .half-width{
-    width: 40%;
+    width: 35%;
     float: left;
-    margin: 2%;
-    padding: 2%;
+    margin: 0%;
+    padding: 5%;
 }
 .half-width image{
     width: 100%;
