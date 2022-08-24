@@ -15,18 +15,13 @@ body{
     color: brown;
 }
 .half-width{
-    width: 35%;
+    width: 40%;
     float: left;
     margin: 2%;
     padding: 2%;
 }
 .half-width image{
     width: 100%;
-}
-.second-half-width{
-
- margin-top: 25%; 
- margin-left: 20%;  
 }
 
 .button{
