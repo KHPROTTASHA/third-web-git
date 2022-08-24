@@ -4,6 +4,10 @@ h1{
 h2{
     font-size: 40px;
 }
+.top-banner{
+    background-repeat: no-repeat;
+    max-width: none;
+}
 body{
     font-family: 'Crimson Text', serif;
 }
