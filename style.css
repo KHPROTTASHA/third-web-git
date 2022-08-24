@@ -19,7 +19,11 @@ body{
 .half-width image{
     width: 100%;
 }
+.second-half-width{
 
+ margin-top: 20px; 
+ margin-left: 20px;  
+}
 
 .button{
     text-decoration: none;
