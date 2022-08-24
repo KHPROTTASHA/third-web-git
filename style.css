@@ -1,13 +1,14 @@
 body{
     font-family: 'Crimson Text', sans-serif;
     margin: 0;
+    display: flex;
 }
 .top-banner{
     background-repeat: no-repeat;
     max-width: none;
 }
 section{
-    width: 100%;
+    display: flex;
 }
 .section-box{
     display: flex;
@@ -49,8 +50,8 @@ p{
     font-weight: 400;
 }
 .dream-padding{
-    padding-right: 150px;
-    padding-top: 100px;
+    padding-right: 80px;
+    padding-top: 120px;
 }
 .padding-left{
     margin-left: 30px
