@@ -17,8 +17,8 @@ body{
 .half-width{
     width: 35%;
     float: left;
-    margin: 0%;
-    padding: 1%;
+    margin: 5%;
+    padding: 2%;
 }
 .half-width image{
     width: 100%;
