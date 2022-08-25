@@ -1,7 +1,7 @@
 body{
     font-family: 'Crimson Text', sans-serif;
     margin: 0;
-    display: flex;
+    
 }
 .top-banner{
     background-repeat: no-repeat;
@@ -9,6 +9,7 @@ body{
 }
 section{
     display: flex;
+    width: 100%;
 }
 .section-box{
     display: flex;
@@ -32,9 +33,9 @@ p{
     color: brown;
 }
 .half-width{
-    width: 35%;
+    width: 40%;
     float: left;
-    margin: 5%;
+    margin: 4%;
     padding: 2%;
 }
 .half-width image{
