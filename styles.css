@@ -1,0 +1,24 @@
+*{
+    
+    margin: 0;
+}
+
+.total-block{
+    
+    background-color: aquamarine;
+    padding: 50px;
+    display: flex;
+}
+.block{
+    height: 300px;
+    width: 40%;
+    background-color: aqua;
+    margin-bottom: 50px;
+    margin-right: 10px;
+
+}
+.h{
+    height: 100px;
+    color: brown;
+   
+}
